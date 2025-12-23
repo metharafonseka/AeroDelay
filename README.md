@@ -118,9 +118,6 @@ predictor = FlightDelayPredictor("models/flight_delay_model.pkl")
 # Make predictions
 predictions = predictor.predict(X_test)
 
-# Predict single flight
-flight_data = {...}  # Your flight features
-delay = predictor.predict_single(flight_data)
 ```
 
 Or run the example:
