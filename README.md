@@ -188,9 +188,3 @@ python -c "from src.preprocess import preprocess_data; print('✓ Preprocessing 
 # Test prediction
 python src/predict.py
 ```
-
-## 👤 Author
-
-**Methara Fonseka**
-- GitHub: [@metharafonseka](https://github.com/metharafonseka)
-- LinkedIn: [Methara Fonseka](https://linkedin.com/in/methara-fonseka)
